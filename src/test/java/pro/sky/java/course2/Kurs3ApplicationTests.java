@@ -11,3 +11,4 @@ class Kurs3ApplicationTests {
     }
 
 }
+
